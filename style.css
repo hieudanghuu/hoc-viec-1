@@ -533,6 +533,9 @@ display: block;
 }
 
 @media only screen and (max-width: 1200px) {
+    .content .row .col .img_content5 {
+        height:  auto;
+    }
 
     .container_content_3 {
         padding: 0;
