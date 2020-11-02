@@ -60,6 +60,10 @@ text-align: right;
 .list-footer {
     list-style-type: none;
 }
+button:focus {
+    outline: none;
+    
+}
 
 .list >li {
     padding: 0 30px;
